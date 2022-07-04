@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.test.test_module.ServiceClassTest" time="0.1" tests="10" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service\target\test-classes;C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service\target\classes;C:\Users\MARVIN\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\MARVIN\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Model\target\Model-1.0-SNAPSHOT.jar;C:\Users\MARVIN\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MARVIN\.m2\repository\org\assertj\assertj-core\3.21.0\assertj-core-3.21.0.jar;C:\Users\MARVIN\.m2\repository\org\mockito\mockito-core\4.1.0\mockito-core-4.1.0.jar;C:\Users\MARVIN\.m2\repository\net\bytebuddy\byte-buddy\1.12.1\byte-buddy-1.12.1.jar;C:\Users\MARVIN\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.1\byte-buddy-agent-1.12.1.jar;C:\Users\MARVIN\.m2\repository\org\objenesis\objenesis\3.2\objenesis-3.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Singapore"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PH"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin"/>
+    <property name="sun.java.command" value="C:\Users\MARVIN\AppData\Local\Temp\surefire17278781279964568472\surefirebooter10503727963458351189.jar C:\Users\MARVIN\AppData\Local\Temp\surefire17278781279964568472 2022-07-04T22-54-52_980-jvmRun1 surefire13011868044558262853tmp surefire_118079623278411366227tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service\target\test-classes;C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service\target\classes;C:\Users\MARVIN\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\MARVIN\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Model\target\Model-1.0-SNAPSHOT.jar;C:\Users\MARVIN\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MARVIN\.m2\repository\org\assertj\assertj-core\3.21.0\assertj-core-3.21.0.jar;C:\Users\MARVIN\.m2\repository\org\mockito\mockito-core\4.1.0\mockito-core-4.1.0.jar;C:\Users\MARVIN\.m2\repository\net\bytebuddy\byte-buddy\1.12.1\byte-buddy-1.12.1.jar;C:\Users\MARVIN\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.1\byte-buddy-agent-1.12.1.jar;C:\Users\MARVIN\.m2\repository\org\objenesis\objenesis\3.2\objenesis-3.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\MARVIN"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.13"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\MARVIN\AppData\Local\Temp\surefire17278781279964568472\surefirebooter10503727963458351189.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
+    <property name="user.name" value="MARVIN"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\MARVIN\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MARVIN\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="user.dir" value="C:\Users\MARVIN\Desktop\codes\multi_module\test_module\Service"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\apache-maven-3.8.5\bin;C:\Program Files\Git\cmd;C:\Users\MARVIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\MARVIN\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.13+10-LTS-370"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="dataEncoderTest" classname="com.test.test_module.ServiceClassTest" time="0.001"/>
+  <testcase name="addColumnTest" classname="com.test.test_module.ServiceClassTest" time="0.002"/>
+  <testcase name="randomGeneratorTest" classname="com.test.test_module.ServiceClassTest" time="0"/>
+  <testcase name="saveFileTest" classname="com.test.test_module.ServiceClassTest" time="0.001"/>
+  <testcase name="searchTest" classname="com.test.test_module.ServiceClassTest" time="0.041"/>
+  <testcase name="printArrayTest" classname="com.test.test_module.ServiceClassTest" time="0"/>
+  <testcase name="editDataTest" classname="com.test.test_module.ServiceClassTest" time="0"/>
+  <testcase name="ObjectToArrayTest" classname="com.test.test_module.ServiceClassTest" time="0"/>
+  <testcase name="sortTableTest" classname="com.test.test_module.ServiceClassTest" time="0"/>
+  <testcase name="readFileTest" classname="com.test.test_module.ServiceClassTest" time="0.003"/>
+</testsuite>
